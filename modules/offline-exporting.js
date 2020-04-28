@@ -1,5 +1,5 @@
 /*
- Highcharts JS v8.0.4 (2020-03-10)
+ Highcharts JS v8.0.4 (2020-04-28)
 
  Client side exporting module
 

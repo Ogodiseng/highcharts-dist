@@ -1,5 +1,5 @@
 /**
- * @license Highcharts JS v8.0.4 (2020-03-10)
+ * @license Highcharts JS v8.0.4 (2020-04-28)
  * @module highcharts/modules/annotations-advanced
  * @requires highcharts
  *
@@ -11,6 +11,7 @@
  */
 'use strict';
 import '../../annotations/annotations.src.js';
+import '../../annotations/types/BasicAnnotation.js';
 import '../../annotations/types/CrookedLine.js';
 import '../../annotations/types/ElliottWave.js';
 import '../../annotations/types/Tunnel.js';

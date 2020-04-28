@@ -1,5 +1,5 @@
 /**
- * @license Highcharts Gantt JS v8.0.4 (2020-03-10)
+ * @license Highcharts Gantt JS v8.0.4 (2020-04-28)
  * @module highcharts/modules/current-date-indicator
  * @requires highcharts
  *

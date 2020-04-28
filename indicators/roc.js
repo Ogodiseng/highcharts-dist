@@ -1,5 +1,5 @@
 /*
- Highstock JS v8.0.4 (2020-03-10)
+ Highstock JS v8.0.4 (2020-04-28)
 
  Indicator series type for Highstock
 
